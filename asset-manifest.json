@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/palmeras/static/css/main.fce97c50.css",
+    "main.js": "/palmeras/static/js/main.bb8548be.js",
+    "static/media/bootstrap-icons.woff?": "/palmeras/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/palmeras/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/palmeras/index.html",
+    "main.fce97c50.css.map": "/palmeras/static/css/main.fce97c50.css.map",
+    "main.bb8548be.js.map": "/palmeras/static/js/main.bb8548be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce97c50.css",
+    "static/js/main.bb8548be.js"
+  ]
+}
